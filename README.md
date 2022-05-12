@@ -9,9 +9,7 @@ The API and its documentation are located here:  https://gorest.co.in/
 
 Be sure to read the entire page, as it includes details that will be required to finish this exercise.
 
-Your work should be done within this github repo.  First, checkout this repo, then create a branch and
-do all of your work against that branch.  When you are finished, submit a pull request and notify 
-a member of our team.
+Fork this repo and do all of your work against that fork. When you are finished, submit a pull request and notify a member of our team.
 
 ### Instructions
 
