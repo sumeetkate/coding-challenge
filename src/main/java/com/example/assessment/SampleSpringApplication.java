@@ -18,18 +18,7 @@ public class SampleSpringApplication {
         return new RestTemplate();
     }
 
-    @Bean
-    public String getBearerToken() {
-        return System.getenv("bearerToken");
-    }
-
     public static void main(String[] args) {
-
-        System.out.println("main started");
-        for (String arg : args) {
-            System.out.println(arg);
-        }
-
         SpringApplication.run(SampleSpringApplication.class, args);
     }
 }
